@@ -1,0 +1,26 @@
+/* special grey font color from original site
+background-color: #f6f6f6;
+*/
+.name-font-size {
+  font-size: 20px;
+}
+
+.blue-bg {
+  background-color: rgb(42, 56, 85);
+}
+
+.grey-font {
+  color: rgb(193, 193, 193);
+}
+.caption-description-font {
+  font-size: 13px;
+}
+
+@media screen and (max-device-width: 320px) {
+    .first-title-font {
+      font-size: 15px;
+    }
+    .caption-description-font {
+      font-size: 10px;
+    }
+}
